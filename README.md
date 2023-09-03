@@ -17,3 +17,4 @@ funcionando correctamente :creado en replit
 POSIBLE ERROR : al elegir la opcion 6 nos pedira el ISBN  de el libro , no el titulo , y si es que este esta listo para retirar nos dejara y s es que no aparecera un menjae diciendo que no esta listo .
 
 EL ARCHIVO CSV UTILIZADO ES BIBLIOTECA.CVS.
+A MEJORAR : USO DE MEMORIA
